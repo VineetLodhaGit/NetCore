@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceMoneyManager", "AdvanceMoneyManager\AdvanceMoneyManager.csproj", "{A23C80E0-33A3-4F5C-90B2-0522A92B153E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23C80E0-33A3-4F5C-90B2-0522A92B153E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23C80E0-33A3-4F5C-90B2-0522A92B153E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23C80E0-33A3-4F5C-90B2-0522A92B153E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23C80E0-33A3-4F5C-90B2-0522A92B153E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B99F1952-5943-4569-BE4B-A33DCCB46FD5}
+	EndGlobalSection
+EndGlobal
